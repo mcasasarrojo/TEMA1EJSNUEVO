@@ -4,7 +4,7 @@ que tiene un minuto. A continuación, calcular el número de segundos que tiene 
 valor del cálculo en otra variable. Tras esto, realizar una función que reciba como parámetros el
 número de años, meses y días y devuelva el número de segundos de los días, meses y años recibidos
 como parámetro.*/
-public class T1ej1 {
+public class ej1 {
     public static void main(String[] args) {
         int diasEnUnAnio = 365;
         int horasEnUnDia = 24;
