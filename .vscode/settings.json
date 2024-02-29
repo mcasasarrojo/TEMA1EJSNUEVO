@@ -1,3 +1,5 @@
 {
     "java.debug.settings.onBuildFailureProceed": true
+    "GitHub.copilot": true
+    "vscjava.vscode-java-pack": true
 }
